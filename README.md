@@ -9,7 +9,12 @@
 </p>
 
 # 💫 About Me:
-I am recently done with masters in computer science looking for fulltime job in data analyst / data scientist/ ML Engineer/ AI Engineer .<br>I worked in Mastercard and AT&T as data scientist <br>Ask me about anything regarding ML/AI/Data Science<br>How to reach me shraddha14.jathar@gmail.com<br>Know about my experiences https://www.linkedin.com/in/shraddha-jathar/<br>I love editing videos, images using Adobe software 
+  
+🔭Master’s graduate in Computer Science specializing in Data Analytics, Data Science, ML, and AI.  
+Former Data Scientist at Mastercard and AT&T, experienced in building data-driven and scalable solutions.  
+👯Actively seeking full-time roles where data meets impact.  
+💬Ask me about ML/AI/Data Science.  
+📧 shraddha14.jathar@gmail.com | 🔗 LinkedIn: linkedin.com/in/shraddha-jathar/
 
 
 ## 🌐 Socials:
